@@ -1,17 +1,14 @@
-body{
-  background: url("../img/tree_bark.png");
-}
+
 
 h1{
   color: #ABE3CD;
-  background: #629682;
+  background: #3E403F;
   border-radius: 15px;
   margin: 0 0 10px 0;
   padding: 20px; 
   font-family: 'Arvo', serif;
   font-size: 2.8em;
   text-align: center;
-  opacity: 0.75;
 }
 
 .nav, 
@@ -23,7 +20,7 @@ h1{
 
 a {
   text-decoration: none;
-  color: #965F53;
+  color: #8C8C8C;
   font-family: 'Arvo', serif;
 }
 
